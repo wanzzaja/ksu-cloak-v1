@@ -1,0 +1,6 @@
+id=ksu-cloak
+name=KSU Cloak
+version=1.0.0
+versionCode=1
+author=ANON
+description=Native libc path hooks + property spoof for KernelSU.
